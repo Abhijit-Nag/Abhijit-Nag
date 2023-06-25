@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABHIJIT NAG</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="coding" width="280" src="https://www.darwinrecruitment.com/wp-content/uploads/2021/10/About-us-Temp-to-Perm.gif"   >
+<img align="right" alt="coding" width="245" src="https://www.darwinrecruitment.com/wp-content/uploads/2021/10/About-us-Temp-to-Perm.gif"   >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit-nag&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit-nag" /> </p>
 
