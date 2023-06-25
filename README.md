@@ -1,3 +1,4 @@
+![logo](https://github.com/Abhijit-Nag/Abhijit-Nag/blob/main/background_image_github.jpg)
 <h1 align="center">Hi 👋, I'm ABHIJIT NAG</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="245" src="https://www.darwinrecruitment.com/wp-content/uploads/2021/10/About-us-Temp-to-Perm.gif"   >
