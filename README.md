@@ -1,4 +1,4 @@
-# 💫 I'm Abhijit Nag:
+# 💫 I'm AbhijitNag:
 🔭 I’m currently working on Flutter<br>🌱 I’m currently learning Computer Networking, DBMS, Operating System<br>💬 Ask me about MERN & Flutter<br>⚡ Fun fact Still my mom has to beat me for lunch once I start work
 <img align="right" alt="coding" width="280" src="https://www.darwinrecruitment.com/wp-content/uploads/2021/10/About-us-Temp-to-Perm.gif"   >
 
